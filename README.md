@@ -11,7 +11,7 @@
 
 ## Images
 - ## Images
-- ![Image](images/nebula.jpg)
+- ![Image](nebula.jpg)
 
 
 ## Emojis
