@@ -10,7 +10,7 @@
 - [Images Folder](images/)
 
 ## Images
-- ![nebula](![nebula](https://github.com/NancyJK/authoring/assets/146200710/1064bb82-531a-4082-85f8-05b34c5db8c7)
+- ![image folder](![nebula.jpg](https://github.com/NancyJK/authoring/assets/146200710/1064bb82-531a-4082-85f8-05b34c5db8c7)
 )
 
 ## Emojis
