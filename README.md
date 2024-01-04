@@ -6,11 +6,12 @@
 - [here is a link](https://google.com)
 
 ## Internal Link
-- [ ] [images Folder](![nebula](https://github.com/NancyJK/authoring/assets/146200710/eb46b83f-55e2-4a35-8e44-f25e96dd7d17)
-)
+- ## Internal Link
+- [Images Folder](images/)
 
 ## Images
-- [ ] ![Sample Image](images/sample-image.jpg)
+- ![nebula](![nebula](https://github.com/NancyJK/authoring/assets/146200710/1064bb82-531a-4082-85f8-05b34c5db8c7)
+)
 
 ## Emojis
 - 😄😁😆
